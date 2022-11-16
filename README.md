@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kar</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 👨‍💻 My portfolio is available at [http://rkportfolio.c1.biz/](http://rkportfolio.c1.biz/)
 
