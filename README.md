@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kar</h1>
 <h2 align="center">A frontend developer</h2>
 
-- 👨‍💻 My portfolio is available at [(http://rkportfolio.c1.biz/)](https://rahulkar.netlify.app/)
+- 👨‍💻 My portfolio is available at https://rahulkar.netlify.app/
 
 - 📫 How to reach me **20rahulkar1994@gmail.com**
 
