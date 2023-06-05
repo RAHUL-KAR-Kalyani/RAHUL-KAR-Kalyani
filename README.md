@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Kar</h1>
 <h2 align="center">A frontend developer</h2>
 
-- 👨‍💻 My portfolio is available at https://rahulkar.netlify.app/
+- 👨‍💻 My portfolio is available at https://rahul-kar.netlify.app/
 
-- 📫 How to reach me **20rahulkar1994@gmail.com**
+- 📫 How to reach me **rahulkar.996@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
