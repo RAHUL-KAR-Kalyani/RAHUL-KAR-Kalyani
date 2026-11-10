@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  	<a href="https://rahul-next-portfolio.vercel.app/">Portfolio</a> •
-  	<a href="https://www.linkedin.com/in/rahulkar26">LinkedIn</a> •
-  	<a href="mailto:rahulkar.996@gmail.com">Email</a>
+  	<a href="https://rahul-next-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> •
+  	<a href="https://www.linkedin.com/in/rahulkar26" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+  	<a href="mailto:rahulkar.996@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 </p>
 
 ---
@@ -103,13 +103,13 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/rahulkar26">
+	<a href="https://www.linkedin.com/in/rahulkar26" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   	</a>
-  	<a href="https://rahul-next-portfolio.vercel.app/">
+  	<a href="https://rahul-next-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
   	</a>
-  <a href="mailto:rahulkar.996@gmail.com">
+  <a href="mailto:rahulkar.996@gmail.com" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   	</a>
 </p>
